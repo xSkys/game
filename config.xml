@@ -19,6 +19,10 @@
 		<ItemSpec id="1000301" level="1" name="稀有结晶碎片"/>
 		<ItemSpec id="1000302" level="1" name="神器结晶碎片"/>
 		<ItemSpec id="1000303" level="1" name="传说结晶碎片"/>
-		<ItemSpec id="1000304" level="1" name="史诗结晶碎片"/>
+		<ItemSpec id="1000304" level="1" name="史诗碎片"/>
+		<ItemSpec id="1000401" level="1" name="稀有碎片"/>
+		<ItemSpec id="1000402" level="1" name="神器碎片"/>
+		<ItemSpec id="1000403" level="1" name="传说碎片"/>
+		<ItemSpec id="1000404" level="1" name="史诗碎片"/>
 	</Group>
 </tns:database>
