@@ -6,5 +6,15 @@
 		<ItemSpec id="1000003" level="15" name="高级元素晶核"/>
 		<ItemSpec id="1000004" level="20" name="特级元素晶核"/>
 		<ItemSpec id="1000005" level="25" name="顶级元素晶核"/>
+		<ItemSpec id="1000101" level="5" name="低级晶核"/>
+		<ItemSpec id="1000102" level="10" name="中级晶核"/>
+		<ItemSpec id="1000103" level="15" name="高级晶核"/>
+		<ItemSpec id="1000104" level="20" name="特级晶核"/>
+		<ItemSpec id="1000105" level="25" name="顶级晶核"/>
+		<ItemSpec id="1000201" level="5" name="低级元素结晶"/>
+		<ItemSpec id="1000202" level="10" name="中级元素结晶"/>
+		<ItemSpec id="1000203" level="15" name="高级元素结晶"/>
+		<ItemSpec id="1000204" level="20" name="特级元素结晶"/>
+		<ItemSpec id="1000205" level="25" name="顶级元素结晶"/>
 	</Group>
 </tns:database>
