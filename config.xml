@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="config">
+		<ItemSpec id="1000001" level="5" name="低级元素晶核"/>
+		<ItemSpec id="1000002" level="10" name="中级元素晶核"/>
+		<ItemSpec id="1000003" level="15" name="高级元素晶核"/>
+		<ItemSpec id="1000004" level="20" name="特级元素晶核"/>
+	</Group>
+</tns:database>
