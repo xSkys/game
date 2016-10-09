@@ -1,4 +1,4 @@
-?xml version="1.0" encoding="UTF-8" standalone="no"?>
+xml version="1.0" encoding="UTF-8" standalone="no"?>
 <tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Group id="config">
 		<ItemSpec id="1000001" level="5" name="低级元素晶核"/>
@@ -16,13 +16,13 @@
 		<ItemSpec id="1000203" level="15" name="高级元素结晶"/>
 		<ItemSpec id="1000204" level="20" name="特级元素结晶"/>
 		<ItemSpec id="1000205" level="25" name="顶级元素结晶"/>
-		<ItemSpec id="1000301" level="1" name="稀有结晶碎片"/>
-		<ItemSpec id="1000302" level="1" name="神器结晶碎片"/>
-		<ItemSpec id="1000303" level="1" name="传说结晶碎片"/>
-		<ItemSpec id="1000304" level="1" name="史诗碎片"/>
-		<ItemSpec id="1000401" level="1" name="稀有碎片"/>
-		<ItemSpec id="1000402" level="1" name="神器碎片"/>
-		<ItemSpec id="1000403" level="1" name="传说碎片"/>
-		<ItemSpec id="1000404" level="1" name="史诗碎片"/>
+		<ItemSpec id="1000301" level="0" name="稀有结晶碎片"/>
+		<ItemSpec id="1000302" level="0" name="神器结晶碎片"/>
+		<ItemSpec id="1000303" level="0" name="传说结晶碎片"/>
+		<ItemSpec id="1000304" level="0" name="史诗碎片"/>
+		<ItemSpec id="1000401" level="0" name="稀有碎片"/>
+		<ItemSpec id="1000402" level="0" name="神器碎片"/>
+		<ItemSpec id="1000403" level="0" name="传说碎片"/>
+		<ItemSpec id="1000404" level="0" name="史诗碎片"/>
 	</Group>
 </tns:database>
